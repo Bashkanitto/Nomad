@@ -152,15 +152,6 @@ function App() {
           </p>
         </div>
       </div>
-      <div className="w-[45%] mt-15 mb-40 float-end">
-        <img src="" alt="" className="w-full h-[400px] rounded-2xl bg-neutral-300" />
-        <div className="flex justify-between w-full mt-5">
-          <button className="py-2 px-4 bg-black rounded-full text-white">Sira +</button>
-          <p className="text-neutral-300 text-right w-1/2">
-            CRM решения для автоматизации управления тендерами
-          </p>
-        </div>
-      </div>
 
       {/* Процесс */}
       <h2 className="mt-[200px] text-[208px]/40">Процесс.</h2>
