@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <header className="flex justify-between items-center">
-      <img src="vite.svg" alt="" />
+      <img src="logo.jpg" alt="" />
       <ul className="menu flex gap-10">
         <a className="mr-20" href="#">
           Наши услуги
